@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>2100 Solutions</title>
+    <title>2100 Solutions Consulting, LLC</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -46,7 +46,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">2100 Solutions Consulting</a>
+                <a class="navbar-brand page-scroll" href="#page-top">2100 Solutions Consulting, LLC</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -70,9 +70,12 @@
                   <li>
                     <a class="page-scroll" href="#solutions">Solutions</a>
                   </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
-                    </li>
+                  <li>
+                    <a class="page-scroll" href="#blog">Blogs</a>
+                  </li>
+                  <li>
+                    <a class="page-scroll" href="#contact">Contact</a>
+                  </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -85,7 +88,7 @@
         <div class="container">
             <div class="intro-text">
                 <div class="intro-lead-in">Process and Architecture Solutions</div>
-                <div class="intro-heading">2100 Solutions</div>
+                <div class="intro-heading">2100 Solutions Consulting, LLC</div>
                 <a href="#services" class="page-scroll btn btn-xl">Check Us Out</a>
             </div>
         </div>
@@ -116,7 +119,6 @@
                 </span>
 			</div>
                 <h3 class="service-heading">Deep Insurance Operations Experience</h3>
-				
                 <p class="text-muted">The founder of 2100 Solutions, Bill Fulbright, began his working career as a partner in the Insurance Agency Business.  His family's Agency was the leading force in writing Group Life and Health for Municipalities, School Districts, Heavy Manufacturing, as well as normal businesses.  The agency provided Property and Casualty for Commercial, Malpractice, Liability Umbrellas, Personal and Specialty Inland Marine lines of Business.   One of the unique services offered was "Claims Processing" for all the group life and health claims.  Today, that knowledge is invaluable in servicing our IT/QA customers with a deep knowledge of coverages, claims and operations.</p>
 				<p class="text-muted">He moved on to Alexander and Alexander of Texas, now <strong>AON</strong> after 7 years growing the family business.  At A and A, as a National Account Executive for the Fleming Food Company, he single-handedly built the benefit structure, underwrote the experience, advised Travelers the premiums to charge the customer, Fleming.  Once the program was in place he traveled the South and Midwest to sell the plan to grocery stores in the Fleming distribution chain.  Today this wide exposure to the operational and sales side of insurance gives our consulting the needed vision for completing and delivering Applications and Platforms.</p>
             </div>
@@ -145,215 +147,252 @@
                     <h4 class="service-heading">RESTful / API</h4>
                     <p class="text-muted">REST and RESTful architectures allow the use of APIs to create structure for your resources, interfaces and dynamic data, and provide extensibility to grow with your neds.  APIs facilitate ease of maintenance, and traceability.  It is also data agnostic, meaning it can transmit data in many formats: text, html, xml, json, etc.</p>
                 </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-star fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Performance: Load & Stress</h4>
+                    <p class="text-muted">Without an inclusion of Performance assessment, diagnosis and prognisis, a system is bound to have risks.  Some known and seen, others not yet discovered or understood.   When an organization goes through a change, a system impacted with new projects, or the preparations for expanding business from existing customers, performance and load testing help pave the way.</p>
+						<p>Why you may ask?  In order for any assessment of a system to be effective, it must be decomposed from the end point of delivered services backwards through the system paths to their orignation points.  File volume, size, type, protocols, services through which it passes, source, all the touch points along the way, and finally delivery</p>  
+						<p>There are multiple paths necessary to include the parameters of the delivered product which should be defined and tested.  This is the User Community Model, which captures the primary paths of the load and usage - revealing the privary flows that need support.  It is this process that makes a system perform for your customer that will keep them coming back.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-star fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Enterprise Transformation</h4>
+                    <p class="text-muted">Things have changed.  Really.. they have!  We are in a new world of capabilities that enhance and support speed to market, extensible expansion, big data, new languages of code and methods to handle the transfer of data through the system.  Better Security, more robust, mostly reusable - in short the days of 'static' and 'manual' are becoming words of the past.  Replaced with 'dynamic', 'automated', RESTful API, Data Behavior, etc.</p>
+						<p>Transforming one's 'present state' into a higher level of enablement using the latest coding and solutions available will keep your system part of the ever renewing technology we use every day, as well as your competitors.</p>  
+						<p>The investment into system transformation will keep you competitive, more fluent with your own processes, and best of all, provide your customers with the service level they expect.</p>
+                </div>
             </div>
         </div>
     </section>
 
     <!-- Portfolio Grid Section -->
     <section id="portfolio" class="bg-light-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Portfolio of Clients Served</h2>
-                    <h3 class="section-subheading text-muted">from our 19 years of IT consulting</h3>
-                </div>
-            </div>
-            <div class="row">
-               <h2><color="#0033CC">Insurance Domain</color></h2>
-            </div>
-                 <div class="col-md-3 col-sm-6 portfolio-item">
-                   <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                     <img src="assets/portfolio/aon_logo.gif" class="img-responsive" alt="">
-                   </a>
-                 </div>
-                 <div class="col-md-3 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="assets/portfolio/cna_logo.png" class="img-responsive" alt="">
-                    </a>
-                  </div>
-                <div class="col-md-3 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="assets/portfolio/icbc_logo.png" class="img-responsive" alt="">
-                    </a>
-              <!--      <div class="portfolio-caption">
-                             <p class="text-muted">Website Design</p>
-                        </div>  -->
-                </div>
-                <div class="col-md-3 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="assets/portfolio/ffic_logo.jpeg" class="img-responsive" alt="">
-                    </a>
-              <!--      <div class="portfolio-caption">
-                        <p class="text-muted">Website Design</p>
-                    </div> -->
-                </div>
-                <div class="col-md-3 col-sm-6 portfolio-item">
-                      <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                          <div class="portfolio-hover">
-                              <div class="portfolio-hover-content">
-                                  <i class="fa fa-plus fa-3x"></i>
-                              </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Client Portfolio</h2>
+            <h3 class="section-subheading text-muted">Services provided to these companies for 19 years!</h3>
+          </div>
+        </div>
+        <div class="row">
+          <h2><font color="#0033CC">Insurance Domain</font></h2>
+          <div class="col-md-3 col-sm-6 portfolio-item">
+            <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+              <!--        <div class="portfolio-hover">
+                          <div class="portfolio-hover-content">
+                              <i class="fa fa-plus fa-3x"></i>
                           </div>
-                          <img src="assets/portfolio/libmut_logo.png" class="img-responsive" alt="">
-                      </a>
-                <!--  <div class="portfolio-caption">
-                          <p class="text-muted">Website Design</p>
-                      </div> -->
+                      </div>-->
+              <img src="assets/portfolio/aon_logo.gif" class="img-responsive" alt="">
+            </a>
+            <!--   <div class="portfolio-caption">
+                 <p class="text-muted"></p>
+              </div> -->
+          </div>
+          <div class="col-md-3 col-sm-6 portfolio-item">
+            <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+              <img src="assets/portfolio/aig_logo.gif" class="img-responsive" alt="">
+            </a>
+            <!--        <div class="portfolio-caption">
+                      <p class="text-muted"></p>
+                   </div> -->
+          </div>
+          <div class="col-md-3 col-sm-6 portfolio-item">
+            <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img src="assets/portfolio/cna_logo.png" class="img-responsive" alt="">
+            </a>
+            <!--       <div class="portfolio-caption">
+                     <p class="text-muted">CNA</p>
+                  </div>  -->
+          </div>
+          <div class="col-md-3 col-sm-6 portfolio-item">
+            <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img src="assets/portfolio/icbc_logo.png" class="img-responsive" alt="">
+            </a>
+            <!--      <div class="portfolio-caption">
+                      <p class="text-muted">Website Design</p>
+                  </div>  -->
+          </div>
+          <div class="col-md-3 col-sm-6 portfolio-item">
+            <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img src="assets/portfolio/ffic_logo.jpeg" class="img-responsive" alt="">
+            </a>
+            <!--      <div class="portfolio-caption">
+                      <p class="text-muted">Website Design</p>
+                  </div> -->
+          </div>
+          <div class="col-md-3 col-sm-6 portfolio-item">
+            <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img src="assets/portfolio/libmut_logo.png" class="img-responsive" alt="">
+            </a>
+            <!--      <div class="portfolio-caption">
+                      <p class="text-muted">Website Design</p>
+                  </div> -->
+          </div>
+          <div class="col-md-3 col-sm-6 portfolio-item">
+            <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img src="assets/portfolio/statefarm_logo.png" class="img-responsive" alt="">
+            </a>
+            <!--      <div class="portfolio-caption">
+                      <p class="text-muted">Website Design</p>
+                  </div> -->
+          </div>
+          <div class="col-md-3 col-sm-6 portfolio-item">
+            <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img src="assets/portfolio/mmic_logo.png" class="img-responsive" alt="">
+            </a>
+            <!--      <div class="portfolio-caption">
+                      <p class="text-muted">Website Design</p>
+                  </div> -->
+          </div>
+          <div class="col-md-3 col-sm-6 portfolio-item">
+            <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img src="assets/portfolio/allstate_logo.jpeg" class="img-responsive" alt="">
+            </a>
+            <!--      <div class="portfolio-caption">
+                      <p class="text-muted">Website Design</p>
+                  </div> -->
+          </div>
+
+        </div>
+        <div class="container">
+          <div class="row">
+            <h2><font color="#0033CC">Financial Services / Cards Services Domain</font></h2>
+            <div class="col-md-3 col-sm-6 portfolio-item">
+              <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fa fa-plus fa-3x"></i>
                   </div>
-  	                <div class="col-md-3 col-sm-6 portfolio-item">
-  	                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-  	                        <div class="portfolio-hover">
-  	                            <div class="portfolio-hover-content">
-  	                                <i class="fa fa-plus fa-3x"></i>
-  	                            </div>
-  	                        </div>
-  	                        <img src="assets/portfolio/statefarm_logo.png" class="img-responsive" alt="">
-  	                    </a>
-  	              <!--      <div class="portfolio-caption">
-  	                        <p class="text-muted">Website Design</p>
-  	                    </div> -->
-  	                </div>
-	                <div class="col-md-3 col-sm-6 portfolio-item">
-	                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-	                        <div class="portfolio-hover">
-	                            <div class="portfolio-hover-content">
-	                                <i class="fa fa-plus fa-3x"></i>
-	                            </div>
-	                        </div>
-	                        <img src="assets/portfolio/mmic_logo.png" class="img-responsive" alt="">
-	                    </a>
-	              <!--      <div class="portfolio-caption">
-	                        <p class="text-muted">Website Design</p>
-	                    </div> -->
-	                </div>
-  	                <div class="col-md-3 col-sm-6 portfolio-item">
-  	                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-  	                        <div class="portfolio-hover">
-  	                            <div class="portfolio-hover-content">
-  	                                <i class="fa fa-plus fa-3x"></i>
-  	                            </div>
-  	                        </div>
-  	                        <img src="assets/portfolio/allstate_logo.jpeg" class="img-responsive" alt="">
-  	                    </a>
-  	              <!--      <div class="portfolio-caption">
-  	                        <p class="text-muted">Website Design</p>
-  	                    </div> -->
-  	                </div>
-				
-			</div>
-		<div class="container">
-            <div class="row">
-                        <h2><font color="#0033CC">Financial Services / Cards Services Domain</font></h2>				
-	                <div class="col-md-3 col-sm-6 portfolio-item">
-	                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-	                        <div class="portfolio-hover">
-	                            <div class="portfolio-hover-content">
-	                                <i class="fa fa-plus fa-3x"></i>
-	                            </div>
-	                        </div>
-	                        <img src="assets/portfolio/citi_logo.png" class="img-responsive" alt="">
-	                    </a>
                 </div>
-                <div class="col-md-3 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="assets/portfolio/1stUSA_logo.jpeg" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="assets/portfolio/boa_logo.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="assets/portfolio/thd_logo.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="assets/portfolio/preschoice_logo.jpeg" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="assets/portfolio/bmo_logo.jpeg" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="assets/portfolio/vancity_logo.jpeg" class="img-responsive" alt="">
-                    </a>
-                </div>
+                <img src="assets/portfolio/citi_logo.png" class="img-responsive" alt="">
+              </a>
             </div>
-            <div class="row">
-                        <h2><font color="#0033CC">Retail</font></h2>				
-	                <div class="col-md-3 col-sm-6 portfolio-item">
-	                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-	                        <img src="assets/portfolio/sunglass_hut_logo.jpeg" class="img-responsive" alt="">
-	                    </a>
-                  <!--   <div class="portfolio-caption">
-                       <p class="text-muted"></p>
-                    </div> -->
+            <div class="col-md-3 col-sm-6 portfolio-item">
+              <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fa fa-plus fa-3x"></i>
+                  </div>
                 </div>
-			</div>
-            <div class="row">
-                        <h2><font color="#0033CC">Vendor Management Service</font></h2>				
-	                <div class="col-md-5 col-sm-6 portfolio-item">
-	                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                        <img src="assets/portfolio/nextsource_logo.png" class="img-responsive" alt="">
-                    </a>
-                </div>
+                <img src="assets/portfolio/1stUSA_logo.jpeg" class="img-responsive" alt="">
+              </a>
             </div>
+            <div class="col-md-3 col-sm-6 portfolio-item">
+              <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fa fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img src="assets/portfolio/boa_logo.png" class="img-responsive" alt="">
+              </a>
+            </div>
+            <div class="col-md-3 col-sm-6 portfolio-item">
+              <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fa fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img src="assets/portfolio/thd_logo.png" class="img-responsive" alt="">
+              </a>
+            </div>
+            <div class="col-md-3 col-sm-6 portfolio-item">
+              <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fa fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img src="assets/portfolio/preschoice_logo.jpeg" class="img-responsive" alt="">
+              </a>
+            </div>
+            <div class="col-md-3 col-sm-6 portfolio-item">
+              <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fa fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img src="assets/portfolio/bmo_logo.jpeg" class="img-responsive" alt="">
+              </a>
+            </div>
+            <div class="col-md-3 col-sm-6 portfolio-item">
+              <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fa fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img src="assets/portfolio/vancity_logo.jpeg" class="img-responsive" alt="">
+              </a>
+            </div>
+          </div>
+          <div class="row">
+            <h2><font color="#0033CC">Retail</font></h2>
+            <div class="col-md-3 col-sm-6 portfolio-item">
+              <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                <img src="assets/portfolio/sunglass_hut_logo.jpeg" class="img-responsive" alt="">
+              </a>
+              <!--   <div class="portfolio-caption">
+                   <p class="text-muted"></p>
+                </div> -->
+            </div>
+          </div>
+          <div class="row">
+            <h2><font color="#0033CC">Vendor Management Service</font></h2>
+            <div class="col-md-5 col-sm-6 portfolio-item">
+              <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                <img src="assets/portfolio/nextsource_logo.png" class="img-responsive" alt="">
+              </a>
+            </div>
+          </div>
 
 
         </div>
     </section>
-
     <!-- About Section -->
     <section id="about">
         <div class="container">
@@ -380,7 +419,7 @@
                                 </div>
                             </div>
                         </li>
-                        <li>
+                        <li class="timeline-inverted">
                             <div class="timeline-image">
                                 <img class="img-circle img-responsive" src="assets/about/2.jpg" alt="">
                             </div>
@@ -410,7 +449,7 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="assets/about/2.jpg" alt="">
+                                <img class="img-circle img-responsive" src="assets/about/gearHead156.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -424,7 +463,7 @@
                         </li>
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="assets/about/solutions_logo.png" alt="">
+                                <img class="img-circle img-responsive" src="assets/about/2100Solutions_156.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -567,6 +606,33 @@
           </div>
          </div>
       </div>
+	  
+  <!-- Blog Section -->
+  <section id="blog" class="bg-light-gray">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading">BLOGS</h2>
+          <h3 class="section-subheading text-muted">2100 Solutions resourcful Collection of Articles and those from others, Examples of my work, Reference Materials for QA, etc.:</h3>
+				<div class="col-md-4">
+                  <span class="fa-stack fa-4x">
+                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                      <i class="fa fa-star fa-stack-1x fa-inverse"></i>
+                  </span>
+            <h4 class="service-heading">2100 Solutions Consulting Blog</h4>
+            <p class="text-muted">Articles on QA, Management, Testing, Testing Resources, Projects, Published Code:<br> <a href="http://2100solutions.wordpress.com">2100 Solutions Consulting Blog</a>
+           </div>
+				<div class="col-md-4">
+                  <span class="fa-stack fa-4x">
+                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                      <i class="fa fa-star fa-stack-1x fa-inverse"></i>
+                  </span>
+            <h4 class="service-heading">SDET Foundry Blog</h4>
+            <p class="text-muted">A site dedicated to the new style of code based testing and automation tools:<br> <a href="http://sdetfoundry.wordpress.com">SDET Foundry Blog</a></p>
+           </div>
+        </div>
+       </div>
+    </div>
 
         <!-- Contact Section -->
     <section id="contact">
