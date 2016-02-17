@@ -87,7 +87,7 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Process and Architecture Solutions</div>
+                <div class="intro-lead-in">Program Management, Process Solutions</div>
                 <div class="intro-heading">2100 Solutions Consulting, LLC</div>
                 <a href="#services" class="page-scroll btn btn-xl">Check Us Out</a>
             </div>
@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Our Services</h2>
-                    <h3 class="section-subheading text-muted">We will provide the services you need for the mission you have.</h3>
+                    <h3 class="section-subheading text-muted">We provide the services you need for the mission you have.</h3>
                 </div>
             </div>
             <div class="col-md-2">
@@ -111,7 +111,7 @@
                 </span>
 			</div>
                 <h3 class="service-heading">Business Process Management</h3>
-                <p class="text-muted">We have 8 years of hands on Delivery and QA of Pega PRPC from version 4.3 up to the present version of 7.1.  We are specialists in molding the business Requirements into Functionality (using the Pega DCO Process), workflows, rules.  We are designers of workflows in Pega that capture the essence of the workflows in practice in your business.  This provides for a standardization of process, financial savings, secure processes with efficiency.  We are also the unique Provider for Automation of Pega using its own native tools (Shown at PegaWord for 4 years) Pega is the Leader in Business Process Managaement and has led the field in BPM for over 25 yrs.</p>	                
+                <p class="text-muted">We have 8 years of hands on Delivery and QA of Pega PRPC from version 4.3 up to the present version of 7.1.+.  We are specialists in molding the business Requirements into Functionality (using the Pega DCO Process), Workflows and Rules.  We design streamlined, automated workflows in Pega that capture the essence of your business. This provides a standardization of process, financial savings and secure processes with efficiency.  We are also the unique Provider for Automation of Pega using its own native tools (Shown at PegaWord for 4 years). Pega is the Leader in Business Process Managaement and has led the field in BPM for over 25 yrs.</p>	                
             <div class="col-md-2">
                 <span class="fa-stack fa-4x">
                 <img src="assets/about/indep_agent_logo.png" class="img-responsive" alt="">
@@ -119,8 +119,8 @@
                 </span>
 			</div>
                 <h3 class="service-heading">Deep Insurance Operations Experience</h3>
-                <p class="text-muted">The founder of 2100 Solutions, Bill Fulbright, began his working career as a partner in the Insurance Agency Business.  His family's Agency was the leading force in writing Group Life and Health for Municipalities, School Districts, Heavy Manufacturing, as well as normal businesses.  The agency provided Property and Casualty for Commercial, Malpractice, Liability Umbrellas, Personal and Specialty Inland Marine lines of Business.   One of the unique services offered was "Claims Processing" for all the group life and health claims.  Today, that knowledge is invaluable in servicing our IT/QA customers with a deep knowledge of coverages, claims and operations.</p>
-				<p class="text-muted">He moved on to Alexander and Alexander of Texas, now <strong>AON</strong> after 7 years growing the family business.  At A and A, as a National Account Executive for the Fleming Food Company, he single-handedly built the benefit structure, underwrote the experience, advised Travelers the premiums to charge the customer, Fleming.  Once the program was in place he traveled the South and Midwest to sell the plan to grocery stores in the Fleming distribution chain.  Today this wide exposure to the operational and sales side of insurance gives our consulting the needed vision for completing and delivering Applications and Platforms.</p>
+                <p class="text-muted">The founder of 2100 Solutions, Bill Fulbright, began his working career as a partner in the Insurance Agency Business.  His family's Agency was the leading force in writing Group Life and Health for Municipalities, School Districts, Heavy Manufacturing, as well as normal businesses.  The agency provided Property and Casualty for Commercial Insurance, General Liability, Medical and Legal Malpractice, Liability Umbrellas, Personal and Specialty Lines Inland Marine lines of Business.   One of our unique offerings was "Claims Processing" for all the group life and health claims.  Today, that knowledge is invaluable in servicing our IT/QA customers with a deep knowledge of coverages, claims and operations.</p>
+				<p class="text-muted">He joined Alexander and Alexander of Texas, now <strong>AON</strong> after 7 years of growing the family business.  At A'&'A, as a National Account Executive for the Fleming Food Company, he single-handedly built the Group Insurance Program benefit structure, underwrote the experience, advised Travelers the premiums to charge the customer, Fleming.  Once the program was in place he traveled the South and Midwest to sell the plan to grocery stores in the Fleming distribution chain.  Today this wide exposure to the operational and sales side of insurance gives our consulting the needed vision for completing and delivering Applications and Platforms.</p>
             </div>
 			<div class="row text-center">
                 <div class="col-md-4">
