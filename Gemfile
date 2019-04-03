@@ -7,7 +7,7 @@ gem 'uglifier'
 gem 'coffee-rails', git: 'https://github.com/rails/coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
-gem 'jbuilder', git: 'https://github.com/rails/jbuilder'
+gem 'jbuilder'
 
 gem 'sdoc', group: :doc
 
